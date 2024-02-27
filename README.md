@@ -12,8 +12,8 @@ This Python notebook demonstrates a simple face recognition system using the `fa
 
 - **`face_confidence`:** Function to calculate confidence level based on face distance.
 - **`facerecognition` class:**
-- **`encode_faces`:** Method to encode faces from images in the `faces` directory.
-- **`run_rec`:** Method to start the face recognition process using the webcam.
+  - **`encode_faces`:** Method to encode faces from images in the `faces` directory.
+  - **`run_rec`:** Method to start the face recognition process using the webcam.
 
 ## Note
 
